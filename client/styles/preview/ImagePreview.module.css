@@ -1,0 +1,8 @@
+.image_preview {
+  display: flex;
+  flex-direction: column;
+  min-width: 750px;
+  max-width: 750px;
+  padding-left: 30px;
+  padding-right: 30px;
+}

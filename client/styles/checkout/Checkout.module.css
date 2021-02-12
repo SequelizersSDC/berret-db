@@ -1,0 +1,46 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  min-width: 200px;
+  max-width: 350px;
+}
+
+.item_selector {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #ccc;
+  margin: 1em 0;
+  padding: 0;
+}
+
+.return_policy {
+  -webkit-tap-highlight-color: transparent;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -.016rem;
+  text-align: center;
+  font-family: Graphik,Roboto,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 1rem;
+  line-height: 12px;
+  align-items: center;
+  background-color: transparent;
+  border: 0;
+  margin: 0;
+  fill: #406eb5;
+  vertical-align: top;
+  -webkit-font-smoothing: antialiased;
+  cursor: pointer;
+  touch-action: manipulation;
+  outline: 0;
+  display: inline-block;
+  width: auto;
+  color: #3278ae;
+  text-decoration: none;
+  padding-top: 10px;
+}

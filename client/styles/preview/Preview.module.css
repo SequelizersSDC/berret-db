@@ -1,0 +1,7 @@
+.preview {
+  width: 400px;
+  height: 700px;
+  position: absolute;
+  background-color: white;
+  background-repeat: no-repeat;
+}
